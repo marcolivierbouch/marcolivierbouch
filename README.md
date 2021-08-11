@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 </a><a href="https://ubuntu.com/" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="40" height="40"/> </a> 
 <!--AWS -->
 <a href="https://aws.amazon.com/" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<!--Docker --> <a href="https://www.docker.com/" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+<!--Docker -->
+<a href="https://www.docker.com/" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+<!--Docker -->
+<a href="https://www.vim.org/" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" alt="vim" width="40" height="40"/></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=marcolivierbouch)
