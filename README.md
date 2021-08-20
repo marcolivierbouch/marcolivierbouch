@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--Vim -->
 <a href="https://www.vim.org/" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" alt="vim" width="40" height="40"/></a>
 <!--JS -->
-<a href="https://www.vim.org/" target="__blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="vim"  height="40"/></a>
+<a href="https://www.javascript.com/" target="__blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="vim"  height="40"/></a>
 <!--ETH -->
 <p align="left"> 
-<a href="https://www.vim.org/" target="__blank"> <img src="https://ethereum.org/static/6b935ac0e6194247347855dc3d328e83/34ca5/eth-diamond-black.png" alt="vim"  height="40"/></a>
-<a href="https://www.vim.org/" target="__blank"> <img src="https://assets-global.website-files.com/5f6b7190899f41fb70882d08/5f760a499b56c47b8fa74fbb_chainlink-logo.svg" alt="vim"  height="40"/></a>
+<a href="https://ethereum.org/en/" target="__blank"> <img src="https://ethereum.org/static/6b935ac0e6194247347855dc3d328e83/34ca5/eth-diamond-black.png" alt="vim"  height="40"/></a>
+<a href="https://chain.link/" target="__blank"> <img src="https://assets-global.website-files.com/5f6b7190899f41fb70882d08/5f760a499b56c47b8fa74fbb_chainlink-logo.svg" alt="vim"  height="40"/></a>
 
 
 
