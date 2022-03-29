@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!--Vim -->
 <a href="https://www.vim.org/" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" alt="vim" width="40" height="40"/></a>
 <!--JS -->
-<a href="https://www.javascript.com/" target="__blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="vim"  height="40"/></a>
+<a href="https://www.javascript.com/" target="__blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="js"  height="40"/></a>
 <!--ETH -->
 <p align="left"> 
 <a href="https://ethereum.org/en/" target="__blank"> <img src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/321f0/eth-home-icon.png" alt="ETH"  height="40"/></a>
