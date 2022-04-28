@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### 📈 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=marcolivierbouch&show_icons=true" alt="gm.eth stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=marcolivierbouch&show_icons=true&theme=github_dark" alt="gm.eth stats" />
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=marcolivierbouch)
