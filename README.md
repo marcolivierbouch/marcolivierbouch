@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Im Marc-Olivier.
+## Hi there 👋, I'm Marc-Olivier
 
 <!--
 **marcolivierbouch/marcolivierbouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-#### Languages and tools:
+### Languages and tools:
 <!--Linux -->
 <p align="left"> <a href="https://www.linux.org/" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <!--Python -->
