@@ -40,5 +40,9 @@ Here are some ideas to get you started:
 <a href="https://app.aave.com/" target="__blank"> <img src="https://app.aave.com/aaveLogo.svg" alt="aave"  height="40"/></a>
 
 
+### 📈 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=marcolivierbouch&show_icons=true" alt="gm.eth stats" />
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=marcolivierbouch)
