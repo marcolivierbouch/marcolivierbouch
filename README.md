@@ -37,9 +37,3 @@ Here are some ideas to get you started:
 <a href="https://chain.link/" target="__blank"> <img src="https://assets-global.website-files.com/5f6b7190899f41fb70882d08/5f760a499b56c47b8fa74fbb_chainlink-logo.svg" alt="chainlink"  height="40"/></a>
 <a href="https://app.aave.com/" target="__blank"> <img src="https://app.aave.com/aaveLogo.svg" alt="aave"  height="40"/></a>
 
-
-### 📈 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=marcolivierbouch&show_icons=true&theme=github_dark" alt="gm.eth stats" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcolivierbouch&theme=github_dark&langs_count=6&layout=compact)](https://twitter.com/firefart)
