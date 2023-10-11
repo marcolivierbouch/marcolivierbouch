@@ -29,5 +29,3 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eth-diamond-rainbow.png"></code>
 <code><img height="20" src="https://assets-global.website-files.com/5f6b7190899f41fb70882d08/5f760a499b56c47b8fa74fbb_chainlink-logo.svg"></code>
-<code><img height="20" src="https://app.aave.com/aaveLogo.svg"></code>
-
