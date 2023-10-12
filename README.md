@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**languages and tools:**  
+**Languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png"></code>
@@ -29,9 +29,15 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eth-diamond-rainbow.png"></code>
 <code><img height="20" src="https://assets-global.website-files.com/5f6b7190899f41fb70882d08/5f760a499b56c47b8fa74fbb_chainlink-logo.svg"></code>
 
-**let's connect:**  
+**Projects:**
+
+<code><a href="https://xreplygpt.com/"><img src="https://xreplygpt.com/images/XReplyGPT.png" width="20"></a></code>
+<code><a href="https://minthero.io"><img src="https://minthero.io/Logo.png" width="40"></a></code>
+
+**Let's connect:**  
 
 <code><a href="https://www.linkedin.com/in/marc-olivier-bouchard-07694017b/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="20"></a></code>
+
 
 <details>
 <summary>Click for GitHub Stats</summary>
