@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 **Projects:**
 
 <code><a target="_blank" href="https://xreplygpt.com/"><img src="https://xreplygpt.com/images/XReplyGPT.png" width="25"></a></code>
-<code><a target="_blank" href="https://minthero.io"><img src="https://minthero.io/Logo.png" height="25"></a></code>
+<code><a target="_blank" href="https://minthero.io"><img src="https://minthero.io/favicon.ico" height="25"></a></code>
 <code><a target="_blank" href="https://pypi.org/project/dirbpy/"><img src="https://pypi.org/static/images/logo-small.2a411bc6.svg" width="20"></a></code>
 
 
