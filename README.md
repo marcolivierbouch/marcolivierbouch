@@ -40,12 +40,3 @@ Here are some ideas to get you started:
 
 <code><a href="https://www.linkedin.com/in/marc-olivier-bouchard-07694017b/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="25"></a></code>
 
-
-<details>
-<summary>Click for GitHub Stats</summary>
-<p align="left">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcolivierbouch&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcolivierbouch&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-</p>
-</details>
